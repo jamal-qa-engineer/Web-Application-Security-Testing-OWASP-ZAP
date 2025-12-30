@@ -36,26 +36,24 @@ SQL Injection (SQLi)
 Understanding false positives and vulnerability validation
 
 Manual Security Testing
-Using the Manual Request Editor for custom payloads
-Fuzzing parameters to identify injection points
-Testing authentication and authorization mechanisms
-Session management testing and cookie analysis
-File upload vulnerability testing
-Business logic flaw identification
+- Using the Manual Request Editor for custom payloads
+- Fuzzing parameters to identify injection points
+- Testing authentication and authorization mechanisms
+- Session management testing and cookie analysis
+- File upload vulnerability testing
+- Business logic flaw identification
 
 API Security Testing
-
-Testing RESTful and SOAP APIs
-Analyzing API endpoints and authentication mechanisms
-Identifying API-specific vulnerabilities
-Understanding OAuth and JWT token security
-Testing for broken object level authorization (BOLA)
+- Testing RESTful and SOAP APIs
+- Analyzing API endpoints and authentication mechanisms
+- Identifying API-specific vulnerabilities
+- Understanding OAuth and JWT token security
+- Testing for broken object level authorization (BOLA)
 
 Reporting and Documentation
-
-Generating comprehensive security assessment reports
-Understanding vulnerability severity ratings (CVSS scores)
-Documenting proof-of-concept exploits
-Providing remediation recommendations
-Creating executive summaries and technical findings
+- Generating comprehensive security assessment reports
+- Understanding vulnerability severity ratings (CVSS scores)
+- Documenting proof-of-concept exploits
+- Providing remediation recommendations
+- Creating executive summaries and technical findings
 
